@@ -50,7 +50,7 @@ A modern Java web application using J2EE, JSP, Servlets, and TailwindCSS.
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/abdelkarimain/jee-tailwindcss-starter.git ./myapp
 cd myapp
 ```
 
