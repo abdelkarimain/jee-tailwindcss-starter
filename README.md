@@ -45,7 +45,7 @@ A modern Java web application using J2EE, JSP, Servlets, and TailwindCSS.
     └── README.md
     └── tailwind.config.js
 ```
-```
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
