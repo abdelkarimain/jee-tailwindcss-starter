@@ -1,0 +1,11 @@
+{
+  "watch": [
+    "src"
+  ],
+  "ext": "java, xml, properties, jsp , css , js , html",
+  "ignore": [
+    "target"
+  ],
+  "exec": "mvn clean package",
+  "delay": "1000"
+}
