@@ -1,6 +1,6 @@
-# Java J2EE Web Application with TailwindCSS
+# Java J2EE Web starter with TailwindCSS
 
-A modern Java web application using J2EE, JSP, Servlets, and TailwindCSS.
+A modern Java web application starter using J2EE, JSP, Servlets, and TailwindCSS.
 
 ## Requirements
 
